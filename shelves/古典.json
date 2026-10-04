@@ -1,0 +1,117 @@
+{
+ "shelf": "古典",
+ "generated": "2026-09-23",
+ "count": 10,
+ "stations": [
+  {
+   "stationuuid": "96063f25-0601-11e8-ae97-52543be04c81",
+   "name": "Classic FM UK",
+   "url_resolved": "http://ice-the.musicradio.com/ClassicFMMP3",
+   "countrycode": "GB",
+   "language": "english",
+   "tags": "classical",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 56930
+  },
+  {
+   "stationuuid": "ea78e3db-26bd-4ffd-b236-94f69ad2d59d",
+   "name": "Mosaique FM",
+   "url_resolved": "https://radio.mosaiquefm.net/mosalive",
+   "countrycode": "TN",
+   "language": "",
+   "tags": "classical",
+   "codec": "MP3",
+   "bitrate": 90,
+   "votes": 33538
+  },
+  {
+   "stationuuid": "960d4889-0601-11e8-ae97-52543be04c81",
+   "name": "181.FM - Highway 181",
+   "url_resolved": "https://listen.181fm.com/181-highway_128k.mp3",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "classic country,waynesboro",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 20388
+  },
+  {
+   "stationuuid": "962a6637-0601-11e8-ae97-52543be04c81",
+   "name": "1.FM - Classic Rock Replay Radio",
+   "url_resolved": "http://strm112.1.fm/crock_mobile_mp3",
+   "countrycode": "CH",
+   "language": "english",
+   "tags": "classic rock",
+   "codec": "MP3",
+   "bitrate": 256,
+   "votes": 17500
+  },
+  {
+   "stationuuid": "962a66fd-0601-11e8-ae97-52543be04c81",
+   "name": "1.FM - Classic Country Radio",
+   "url_resolved": "http://strm112.1.fm/ccountry_mobile_mp3",
+   "countrycode": "CH",
+   "language": "english",
+   "tags": "classic country",
+   "codec": "MP3",
+   "bitrate": 256,
+   "votes": 14336
+  },
+  {
+   "stationuuid": "32da2113-229c-11e9-a80b-52543be04c81",
+   "name": "Classic FM",
+   "url_resolved": "http://media-ice.musicradio.com/ClassicFMMP3",
+   "countrycode": "GB",
+   "language": "english",
+   "tags": "classic fm,classical",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 13703
+  },
+  {
+   "stationuuid": "e4594d43-75dc-11ea-b1cf-52543be04c81",
+   "name": "BEAUTIFUL Instrumentals",
+   "url_resolved": "http://s3.voscast.com:10038/",
+   "countrycode": "MX",
+   "language": "english",
+   "tags": "classical,classical music,orchestral",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 13365
+  },
+  {
+   "stationuuid": "9513b20b-e4bd-11e8-a9cc-52543be04c81",
+   "name": "Arrow Classic Rock",
+   "url_resolved": "http://stream.gal.io/arrow",
+   "countrycode": "NL",
+   "language": "dutch",
+   "tags": "classic rock",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 11333
+  },
+  {
+   "stationuuid": "49b2c8f9-c7ed-4df5-afc3-93b8f6028121",
+   "name": "109.0 FM Christmas Kids",
+   "url_resolved": "http://stream.dar.fm/97821",
+   "countrycode": "DZ",
+   "language": "",
+   "tags": "classical",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 8584
+  },
+  {
+   "stationuuid": "962a752e-0601-11e8-ae97-52543be04c81",
+   "name": "1.FM - Rock Classics Radio",
+   "url_resolved": "http://strm112.1.fm/rockclassics_mobile_mp3",
+   "countrycode": "CH",
+   "language": "english",
+   "tags": "classic rock",
+   "codec": "MP3",
+   "bitrate": 256,
+   "votes": 8471
+  }
+ ]
+}

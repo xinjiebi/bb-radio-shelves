@@ -1,0 +1,117 @@
+{
+ "shelf": "爵士",
+ "generated": "2026-09-23",
+ "count": 10,
+ "stations": [
+  {
+   "stationuuid": "ea8059be-d119-4de3-b27b-0d9bd6aedb17",
+   "name": "Adroit Jazz Underground",
+   "url_resolved": "https://icecast.walmradio.com:8443/jazz",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "avant-garde,bebop,big band,bop,combos,contemporary,contemporary jazz,cool,cool jazz,free jazz,fusion,hard bop,hd,mainstream,mainstream jazz,modern,modern big band,post-bop,straight-ahead,walm,west coast",
+   "codec": "MP3",
+   "bitrate": 320,
+   "votes": 181204
+  },
+  {
+   "stationuuid": "96102c22-0601-11e8-ae97-52543be04c81",
+   "name": "Jazz Radio Blues",
+   "url_resolved": "http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3",
+   "countrycode": "FR",
+   "language": "french",
+   "tags": "blues,jazz",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 64792
+  },
+  {
+   "stationuuid": "96136fe5-0601-11e8-ae97-52543be04c81",
+   "name": "Jazz Radio",
+   "url_resolved": "http://jazzradio.ice.infomaniak.ch/jazzradio-high.mp3",
+   "countrycode": "FR",
+   "language": "french",
+   "tags": "jazz,soul",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 50334
+  },
+  {
+   "stationuuid": "963fa65f-0601-11e8-ae97-52543be04c81",
+   "name": "Antena 1 São Paulo, SP (ZYD823 94,7 MHz FM) [aac]",
+   "url_resolved": "http://antena1.newradio.it/stream?ext=.mp3",
+   "countrycode": "BR",
+   "language": "portuguese",
+   "tags": "adult contemporary,jazz,pop,smooth jazz",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "votes": 33114
+  },
+  {
+   "stationuuid": "96136071-0601-11e8-ae97-52543be04c81",
+   "name": "Jazz Radio Classic Jazz",
+   "url_resolved": "http://jazz-wr01.ice.infomaniak.ch/jazz-wr01-128.mp3",
+   "countrycode": "FR",
+   "language": "french",
+   "tags": "classical,jazz",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 28097
+  },
+  {
+   "stationuuid": "96237848-0601-11e8-ae97-52543be04c81",
+   "name": "Jazz Lounge",
+   "url_resolved": "http://eu8.fastcast4u.com:5068/;",
+   "countrycode": "MY",
+   "language": "english",
+   "tags": "320kbps,classic jazz,jazz,smooth jazz",
+   "codec": "MP3",
+   "bitrate": 320,
+   "votes": 17691
+  },
+  {
+   "stationuuid": "b9e1f76e-41fd-11e9-aa55-52543be04c81",
+   "name": "Blues Radio",
+   "url_resolved": "http://cast3.radiohost.ovh:8352/",
+   "countrycode": "GR",
+   "language": "english",
+   "tags": "blues",
+   "codec": "MP3",
+   "bitrate": 320,
+   "votes": 13837
+  },
+  {
+   "stationuuid": "961f9f7f-0601-11e8-ae97-52543be04c81",
+   "name": "Jazz London Radio",
+   "url_resolved": "http://radio.canstream.co.uk:8075/live.mp3",
+   "countrycode": "GB",
+   "language": "",
+   "tags": "jazz",
+   "codec": "MP3",
+   "bitrate": 256,
+   "votes": 12357
+  },
+  {
+   "stationuuid": "9617ccb4-0601-11e8-ae97-52543be04c81",
+   "name": "1.FM - Blues Radio",
+   "url_resolved": "http://strm112.1.fm/blues_mobile_mp3",
+   "countrycode": "CH",
+   "language": "english",
+   "tags": "blues",
+   "codec": "MP3",
+   "bitrate": 256,
+   "votes": 11679
+  },
+  {
+   "stationuuid": "9610a72f-0601-11e8-ae97-52543be04c81",
+   "name": "Jazz Radio Only Women",
+   "url_resolved": "http://jazz-wr16.ice.infomaniak.ch/jazz-wr16-128.mp3",
+   "countrycode": "FR",
+   "language": "french",
+   "tags": "jazz,women",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 9462
+  }
+ ]
+}

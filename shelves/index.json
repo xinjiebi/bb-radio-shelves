@@ -1,5 +1,46 @@
 {
-  "shelves": [],
-  "generated": "pending",
-  "note": "运行 python curate_shelves.py 生成精选池数据后自动填充"
+  "shelves": [
+    {
+      "shelf": "华语流行",
+      "count": 10
+    },
+    {
+      "shelf": "全球热门",
+      "count": 10
+    },
+    {
+      "shelf": "老歌怀旧",
+      "count": 10
+    },
+    {
+      "shelf": "爵士",
+      "count": 10
+    },
+    {
+      "shelf": "古典",
+      "count": 10
+    },
+    {
+      "shelf": "电子",
+      "count": 10
+    },
+    {
+      "shelf": "摇滚",
+      "count": 10
+    },
+    {
+      "shelf": "轻音乐",
+      "count": 10
+    },
+    {
+      "shelf": "儿歌",
+      "count": 10
+    },
+    {
+      "shelf": "助眠",
+      "count": 10
+    }
+  ],
+  "version": "20261004120842",
+  "generated": "2026-10-04"
 }

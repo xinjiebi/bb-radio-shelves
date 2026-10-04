@@ -1,0 +1,117 @@
+{
+ "shelf": "助眠",
+ "generated": "2026-09-23",
+ "count": 10,
+ "stations": [
+  {
+   "stationuuid": "961aeb3b-0601-11e8-ae97-52543be04c81",
+   "name": "Ambient Modern",
+   "url_resolved": "http://radio.stereoscenic.com/mod-h",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "ambient,chillout,non-commercial,relaxation music,relaxing",
+   "codec": "MP3",
+   "bitrate": 256,
+   "votes": 3628
+  },
+  {
+   "stationuuid": "95277bca-2c9a-4c08-b2e7-0854e5793f8e",
+   "name": "Nature Radio Rain",
+   "url_resolved": "https://maggie.torontocast.com:2020/stream/natureradiorain",
+   "countrycode": "CA",
+   "language": "english",
+   "tags": "ambient,ambient and relaxation music,nature,rainorshine,relax,relaxation,relaxation music,relaxing,sounds of nature",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 3387
+  },
+  {
+   "stationuuid": "bebfa334-df6f-11e9-a8ba-52543be04c81",
+   "name": "Radio Caprice - Meditation Music",
+   "url_resolved": "http://79.120.77.11:8002/meditation",
+   "countrycode": "",
+   "language": "",
+   "tags": "meditation,new age,relax,yoga,zen",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "votes": 2506
+  },
+  {
+   "stationuuid": "7eadf977-e8de-11e9-a96c-52543be04c81",
+   "name": "Radio Caprice - Relaxation Music",
+   "url_resolved": "http://79.120.39.202:9109/",
+   "countrycode": "RU",
+   "language": "",
+   "tags": "meditation,relax,relaxation",
+   "codec": "AAC+",
+   "bitrate": 320,
+   "votes": 2460
+  },
+  {
+   "stationuuid": "985aa43a-2515-11e8-91bf-52543be04c81",
+   "name": "Costa del Mar - Zen",
+   "url_resolved": "http://stream.cdm-zen.com:8004/stream-mp3-Zen",
+   "countrycode": "",
+   "language": "",
+   "tags": "ambient,calm,deep,instrumental,love,relaxation,relaxing,zen,zen ambient",
+   "codec": "MP3",
+   "bitrate": 96,
+   "votes": 2284
+  },
+  {
+   "stationuuid": "1665ae4c-74dc-44f0-bd0a-7a0d0291aa8c",
+   "name": "EPIC CLASSICAL - Classical Music For Sleep",
+   "url_resolved": "https://stream.epic-classical.com/classical-music-for-sleep",
+   "countrycode": "DE",
+   "language": "american english,british english,deutsch fränkisch,english,english uk,german",
+   "tags": "ambient,ambient and relaxation music,chillout,classic,classical,klassik,relax,relaxing",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 2032
+  },
+  {
+   "stationuuid": "962aa032-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Groove Salad (128k AAC)",
+   "url_resolved": "https://ice5.somafm.com/groovesalad-128-aac",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "ambient,chillout,downtempo,groove,lounge,sleep",
+   "codec": "AAC",
+   "bitrate": 128,
+   "votes": 1975
+  },
+  {
+   "stationuuid": "4c0118e7-97d9-4657-9bb8-427758a4aa85",
+   "name": "Epic Lounge - SLEEP & MEDITATION",
+   "url_resolved": "https://stream.epic-lounge.com/sleep-meditation?ref=radiobrowser",
+   "countrycode": "DE",
+   "language": "english,german",
+   "tags": "ambient and relaxation music,chill,chillout,meditation,relax,relaxing,sleep",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 1877
+  },
+  {
+   "stationuuid": "9f57367e-96b1-4e52-97a0-0bc37cf6957a",
+   "name": "Radio Art - Piano for Sleep",
+   "url_resolved": "http://air.radioart.com/fPiano_for_sleep.mp3",
+   "countrycode": "GR",
+   "language": "english",
+   "tags": "classical,piano,sleep",
+   "codec": "MP3",
+   "bitrate": 96,
+   "votes": 1772
+  },
+  {
+   "stationuuid": "4dad0ae3-720a-434e-b350-7186e4c5ea6f",
+   "name": "MyNoise Pure Nature",
+   "url_resolved": "https://purenature-mynoise.radioca.st/stream",
+   "countrycode": "BE",
+   "language": "english",
+   "tags": "ambient,ambient and relaxation music,nature",
+   "codec": "MP3",
+   "bitrate": 160,
+   "votes": 1616
+  }
+ ]
+}

@@ -90,6 +90,10 @@ def get_json(path, ua=None):
 def clean_name(name):
     return " ".join(name.split())
 
+def new_version():
+    """货架数据版本号：UTC 时间戳，客户端对比此字段判断是否有更新"""
+    return time.strftime("%Y%m%d%H%M%S", time.gmtime())
+
 def norm_url(url):
     """跨货架去重键：去参数、去尾斜杠"""
     return url.split("?")[0].rstrip("/")
@@ -285,6 +289,7 @@ def health_check(auto_fix=False):
     with open(index_path, encoding="utf-8") as f:
         index_data = json.load(f)
 
+    any_fixed = False
     for shelf_info in index_data["shelves"]:
         shelf_name = shelf_info["shelf"]
         shelf_file = os.path.join(OUT_DIR, f"{shelf_name}.json")
@@ -360,6 +365,17 @@ def health_check(auto_fix=False):
             print(f"  ⚠ 发现 {len(dead_uuids)} 个失效台，使用 --auto-fix 自动替换")
 
         report["shelves"].append(shelf_report)
+        if shelf_report["fixed"]:
+            any_fixed = True
+
+    # 有替换发生时提升 index.json 版本号，客户端才会感知更新
+    if any_fixed:
+        with open(index_path, encoding="utf-8") as f:
+            idx = json.load(f)
+        idx["version"] = new_version()
+        with open(index_path, "w", encoding="utf-8") as f:
+            json.dump(idx, f, ensure_ascii=False, indent=2)
+        print(f"\nindex.json 版本号已更新: {idx['version']}")
 
     # 输出汇总
     print("\n" + "=" * 60)
@@ -440,6 +456,7 @@ if __name__ == "__main__":
                 index.append({"shelf": name, "count": 0, "error": str(e)})
 
         with open(os.path.join(OUT_DIR, "index.json"), "w", encoding="utf-8") as f:
-            json.dump({"shelves": index, "generated": time.strftime("%Y-%m-%d")}, f, ensure_ascii=False, indent=2)
+            json.dump({"shelves": index, "version": new_version(),
+                       "generated": time.strftime("%Y-%m-%d")}, f, ensure_ascii=False, indent=2)
         print("\n=== 生成完成 ===")
         print(json.dumps(index, ensure_ascii=False, indent=2))

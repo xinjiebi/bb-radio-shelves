@@ -1,0 +1,117 @@
+{
+ "shelf": "电子",
+ "generated": "2026-09-23",
+ "count": 10,
+ "stations": [
+  {
+   "stationuuid": "962cc6df-0601-11e8-ae97-52543be04c81",
+   "name": "Dance Wave!",
+   "url_resolved": "https://dancewave.online/dance.mp3",
+   "countrycode": "HU",
+   "language": "english",
+   "tags": "club dance electronic house trance",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 568300
+  },
+  {
+   "stationuuid": "9622cd46-0601-11e8-ae97-52543be04c81",
+   "name": "Europa Plus",
+   "url_resolved": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+   "countrycode": "RU",
+   "language": "russian",
+   "tags": "dance,house,pop",
+   "codec": "MP3",
+   "bitrate": 0,
+   "votes": 59440
+  },
+  {
+   "stationuuid": "165eab56-4a14-11e9-a4d7-52543be04c81",
+   "name": "DFM Дискач 90-х",
+   "url_resolved": "https://dfm-disc90.hostingradio.ru/disc9096.aacp",
+   "countrycode": "RU",
+   "language": "russian",
+   "tags": "90-е,eurodance,nostalgia",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "votes": 55396
+  },
+  {
+   "stationuuid": "563f5559-105c-11e9-a80b-52543be04c81",
+   "name": "DFM RUSSIAN DANCE",
+   "url_resolved": "https://dfm-dfmrusdance.hostingradio.ru/dfmrusdance96.aacp?0.9987259013359274",
+   "countrycode": "RU",
+   "language": "russian",
+   "tags": "dance",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "votes": 55001
+  },
+  {
+   "stationuuid": "961787d1-0601-11e8-ae97-52543be04c81",
+   "name": "Frisky",
+   "url_resolved": "http://stream2.friskyradio.com/frisky_mp3_hi",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "electronic,frisky,new york city,progressive",
+   "codec": "MP3",
+   "bitrate": 96,
+   "votes": 53406
+  },
+  {
+   "stationuuid": "af6f51b1-0ca9-11ea-a87e-52543be04c81",
+   "name": "Intense Radio - We love Dance 256K",
+   "url_resolved": "https://secure.live-streams.nl/main",
+   "countrycode": "NL",
+   "language": "belarusian,dutch,english",
+   "tags": "clubhouse,dance,electronic,house,melodic,techno,trance",
+   "codec": "MP3",
+   "bitrate": 256,
+   "votes": 50978
+  },
+  {
+   "stationuuid": "60ceaabd-4efd-4f47-b961-0dab6f475731",
+   "name": "EuroDance 90 radio",
+   "url_resolved": "https://stream-eurodance90.fr/radio/8000/128.mp3?1627933323",
+   "countrycode": "FR",
+   "language": "french",
+   "tags": "dancefloor,electronic dance music,eurodance,pop dance,pop music",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 42828
+  },
+  {
+   "stationuuid": "960e4940-0601-11e8-ae97-52543be04c81",
+   "name": "Ibiza Global Radio",
+   "url_resolved": "http://ibizaglobalradio.streaming-pro.com:8024/",
+   "countrycode": "ES",
+   "language": "spanish",
+   "tags": "dance,electronic,house",
+   "codec": "MP3",
+   "bitrate": 0,
+   "votes": 37461
+  },
+  {
+   "stationuuid": "caaa4c5a-16c8-11e9-a80b-52543be04c81",
+   "name": "Chocolate FM",
+   "url_resolved": "http://streaming5.elitecomunicacion.es:8082/live.mp3",
+   "countrycode": "ES",
+   "language": "spanish",
+   "tags": "chr,dance,español,latin,latin music,latino,pop,pop latino,reggaeton,top 40,trap",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 32151
+  },
+  {
+   "stationuuid": "960a0f41-0601-11e8-ae97-52543be04c81",
+   "name": "Radio Meuh",
+   "url_resolved": "http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3",
+   "countrycode": "FR",
+   "language": "french",
+   "tags": "electronic,funk,music",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 30825
+  }
+ ]
+}

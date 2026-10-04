@@ -1,0 +1,117 @@
+{
+ "shelf": "轻音乐",
+ "generated": "2026-09-23",
+ "count": 10,
+ "stations": [
+  {
+   "stationuuid": "6eff3484-4ab4-4d36-bf27-9172c5aac15c",
+   "name": "Christmas Vinyl HD",
+   "url_resolved": "https://icecast.walmradio.com:8443/christmas",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "christian,christmas,easy listening,hd,holiday,otr,seasonal,vintage,vinyl,walm",
+   "codec": "MP3",
+   "bitrate": 320,
+   "votes": 167847
+  },
+  {
+   "stationuuid": "313046e3-b203-4b9d-bc3e-393da7d97126",
+   "name": "WALM - Old Time Radio",
+   "url_resolved": "https://icecast.walmradio.com:8443/otr",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "78,78-rpm,78rpm,classic,comedy,drama,easy listening,musical,mystery,old time radio,otr,sci-fi,v-disc,vintage,walm",
+   "codec": "MP3",
+   "bitrate": 64,
+   "votes": 153702
+  },
+  {
+   "stationuuid": "961fa288-0601-11e8-ae97-52543be04c81",
+   "name": "Ambient Sleeping Pill",
+   "url_resolved": "http://radio.stereoscenic.com/asp-h",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "ambient,meditation,sleep",
+   "codec": "MP3",
+   "bitrate": 256,
+   "votes": 54258
+  },
+  {
+   "stationuuid": "960cf833-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Groove Salad (128k MP3)",
+   "url_resolved": "https://ice6.somafm.com/groovesalad-128-mp3",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "ambient,chillout,downtempo,groove,lounge,sleep",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 47559
+  },
+  {
+   "stationuuid": "960c7c81-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Secret Agent (128k MP3)",
+   "url_resolved": "https://ice2.somafm.com/secretagent-128-mp3",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "ambient,downtempo,jazz,lounge,samba,sixties",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 35934
+  },
+  {
+   "stationuuid": "961799c0-0601-11e8-ae97-52543be04c81",
+   "name": "Спокойное радио",
+   "url_resolved": "https://listen1.myradio24.com/6262",
+   "countrycode": "RU",
+   "language": "russian",
+   "tags": "ambient,chillout,easy listening,jazz,lounge,moscow,relax,sounds of nature",
+   "codec": "MP3",
+   "bitrate": 320,
+   "votes": 30051
+  },
+  {
+   "stationuuid": "9609ed67-0601-11e8-ae97-52543be04c81",
+   "name": "Cryosleep",
+   "url_resolved": "http://streams.echoesofbluemars.org:8000/cryosleep",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "ambient,calm,music,nobeat,sleep,space",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 29329
+  },
+  {
+   "stationuuid": "962b27a3-0601-11e8-ae97-52543be04c81",
+   "name": "Smooth Radio",
+   "url_resolved": "http://media-the.musicradio.com/SmoothEastMids",
+   "countrycode": "GB",
+   "language": "english",
+   "tags": "easy listening,smooth,soft music",
+   "codec": "AAC",
+   "bitrate": 48,
+   "votes": 26921
+  },
+  {
+   "stationuuid": "9610c454-0601-11e8-ae97-52543be04c81",
+   "name": "Antenne Bayern - Chillout",
+   "url_resolved": "http://mp3channels.webradio.antenne.de/chillout",
+   "countrycode": "DE",
+   "language": "german",
+   "tags": "chillout",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 15211
+  },
+  {
+   "stationuuid": "478fd7f4-dc36-11e9-a8ba-52543be04c81",
+   "name": "Smooth Chill",
+   "url_resolved": "https://media-ssl.musicradio.com/ChillMP3",
+   "countrycode": "GB",
+   "language": "english",
+   "tags": "chillout,national,public radio,smooth,variety",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 13230
+  }
+ ]
+}

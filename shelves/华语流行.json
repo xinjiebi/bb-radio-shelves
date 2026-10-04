@@ -1,0 +1,123 @@
+{
+ "shelf": "华语流行",
+ "generated": "2026-09-23",
+ "count": 10,
+ "stations": [
+  {
+   "stationuuid": "a09db942-832d-4932-8c05-494e17dc37e0",
+   "name": "Music Radio 音乐之声",
+   "url_resolved": "https://ngcdn001.cnr.cn/live/yyzs/index.m3u8",
+   "countrycode": "CN",
+   "language": "chinese",
+   "tags": "music",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "votes": 641,
+   "pinned": true,
+   "note": "置顶：中央广播电视总台音乐之声，官方 CDN 源"
+  },
+  {
+   "stationuuid": "31710261-0b76-11e9-a80b-52543be04c81",
+   "name": "YES 933 Radio",
+   "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac",
+   "countrycode": "SG",
+   "language": "chinese",
+   "tags": "",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "votes": 3874,
+   "note": "2026-09-23 新增：新加坡 Mediacorp 中文流行金曲台，官方 streamtheworld 源，体检 200 audio/aacp"
+  },
+  {
+   "stationuuid": "e4599290-f353-478d-b920-7e057d049dd5",
+   "name": "AsiaFM高清音乐台",
+   "url_resolved": "http://asiafm.hk:8000/asiahd",
+   "countrycode": "CN",
+   "language": "chinese",
+   "tags": "192kbps,hd,music",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "votes": 2962
+  },
+  {
+   "stationuuid": "06993d81-0b79-11e9-a80b-52543be04c81",
+   "name": "UFM 100.3 Radio",
+   "url_resolved": "http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac",
+   "countrycode": "SG",
+   "language": "chinese",
+   "tags": "",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "votes": 2426,
+   "note": "2026-09-23 新增：新加坡 UFM 100.3 中文流行台，官方 streamtheworld 源，体检 200 audio/aacp"
+  },
+  {
+   "stationuuid": "aae8f50a-34a1-474c-9b5b-418a82c5cab4",
+   "name": "天籁之音 - 经典正流行",
+   "url_resolved": "http://play-radio-stream3.hndt.com/now/WUBA5hW2/chunklist.m3u8",
+   "countrycode": "CN",
+   "language": "chinese",
+   "tags": "music,oldies",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "votes": 2302,
+   "note": "2026-09-23 新增：河南广播官方源（hndt.com），经典正流行，体检 200 application/vnd.apple.mpegurl"
+  },
+  {
+   "stationuuid": "94b627b7-7b61-4478-b797-bcb21973c4bf",
+   "name": "AsiaFM亚洲经典台",
+   "url_resolved": "http://goldfm.cn:8000/goldfm",
+   "countrycode": "CN",
+   "language": "chinese",
+   "tags": "classic hits,hd,music,oldies",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "votes": 2195
+  },
+  {
+   "stationuuid": "8e8f1791-1408-49f7-a4fb-b7c7e2fb3636",
+   "name": "加拿大中文电台FM.96.1",
+   "url_resolved": "https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8",
+   "countrycode": "CA",
+   "language": "chinese",
+   "tags": "96.1,96.1 fm,music,news,pop,talk",
+   "codec": "AAC",
+   "bitrate": 48,
+   "votes": 1475,
+   "note": "2026-09-23 新增：加拿大 Fairchild 中文电台国语台，官方 streamlock 源，体检 200 application/vnd.apple.mpegurl"
+  },
+  {
+   "stationuuid": "9e31ffb7-8586-425c-b149-fc633a7507cc",
+   "name": "台北健康電台",
+   "url_resolved": "http://fm901.cityfm.tw:8080/901.mp3",
+   "countrycode": "TW",
+   "language": "chinese",
+   "tags": "information,music",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 349
+  },
+  {
+   "stationuuid": "c82665f5-e3b2-4ffe-aac4-9d2677c53fbb",
+   "name": "中廣音樂網",
+   "url_resolved": "https://n03.rcs.revma.com/ndk05tyy2tzuv",
+   "countrycode": "TW",
+   "language": "chinese",
+   "tags": "internet radio,music",
+   "codec": "AAC",
+   "bitrate": 0,
+   "votes": 171
+  },
+  {
+   "stationuuid": "c96c5fd7-87f3-46fb-9a92-1500fabafc24",
+   "name": "中廣流行網",
+   "url_resolved": "https://n03.rcs.revma.com/aw9uqyxy2tzuv",
+   "countrycode": "TW",
+   "language": "chinese",
+   "tags": "music",
+   "codec": "AAC",
+   "bitrate": 0,
+   "votes": 152
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "shelf": "老歌怀旧",
+ "generated": "2026-09-23",
+ "count": 10,
+ "stations": [
+  {
+   "stationuuid": "d1a54d2e-623e-4970-ab11-35f7b56c5ec3",
+   "name": "Classic Vinyl HD",
+   "url_resolved": "https://icecast.walmradio.com:8443/classic",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "1930,1940,1950,1960,beautiful music,big band,classic hits,crooners,easy,easy listening,hd,jazz,light orchestral,lounge,oldies,orchestral,otr,relaxation,strings,swing,unwind,walm",
+   "codec": "MP3",
+   "bitrate": 320,
+   "votes": 301437
+  },
+  {
+   "stationuuid": "c93f9c76-2ad4-464d-bff4-7f46e95f2601",
+   "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
+   "url_resolved": "https://radiopanther.radiolebowski.com/play",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "1970s,1980s,70's,70s,70s disco,80,80's,80s,classic hits",
+   "codec": "AAC",
+   "bitrate": 0,
+   "votes": 58252
+  },
+  {
+   "stationuuid": "964fade0-0601-11e8-ae97-52543be04c81",
+   "name": "Ретро FM",
+   "url_resolved": "http://retroserver.streamr.ru:8043/retro256.mp3",
+   "countrycode": "RU",
+   "language": "russian",
+   "tags": "classic hits,moscow,music,pop,retro,russia,russian pop",
+   "codec": "MP3",
+   "bitrate": 0,
+   "votes": 55208
+  },
+  {
+   "stationuuid": "964be8b7-0601-11e8-ae97-52543be04c81",
+   "name": "Dance Wave Retro!",
+   "url_resolved": "https://dancewave.online/retrodance.mp3",
+   "countrycode": "HU",
+   "language": "english",
+   "tags": "90s dance",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 54605
+  },
+  {
+   "stationuuid": "960faade-0601-11e8-ae97-52543be04c81",
+   "name": "Ретро FM 70e",
+   "url_resolved": "http://retro70.hostingradio.ru:8025/retro70-128.mp3",
+   "countrycode": "RU",
+   "language": "russian",
+   "tags": "70s",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 38200
+  },
+  {
+   "stationuuid": "c4077677-dc2f-11e9-a8ba-52543be04c81",
+   "name": "Heart 80s",
+   "url_resolved": "https://media-ssl.musicradio.com/Heart80sMP3",
+   "countrycode": "GB",
+   "language": "english",
+   "tags": "80s,national,pop,public radio,variety",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 35429
+  },
+  {
+   "stationuuid": "9614204b-0601-11e8-ae97-52543be04c81",
+   "name": "100% Radio 80",
+   "url_resolved": "http://100radio-80.ice.infomaniak.ch/100radio-80-128.mp3",
+   "countrycode": "FR",
+   "language": "french",
+   "tags": "80s",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 34962
+  },
+  {
+   "stationuuid": "962dc110-0601-11e8-ae97-52543be04c81",
+   "name": "80s80s",
+   "url_resolved": "http://streams.80s80s.de/web/mp3-192/streams.80s80s.de/",
+   "countrycode": "DE",
+   "language": "german",
+   "tags": "80s",
+   "codec": "MP3",
+   "bitrate": 0,
+   "votes": 29476
+  },
+  {
+   "stationuuid": "7ab5fcfc-46ed-40be-9c47-27da8f8ef56c",
+   "name": "LOVE RADIO Only Love Songs 70s80s90s - www.love.radio",
+   "url_resolved": "http://shoutcast3.streamingmedia.it:3162/",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "70s,80s,90s,easy listening,love songs,romantic",
+   "codec": "AAC+",
+   "bitrate": 192,
+   "votes": 28981
+  },
+  {
+   "stationuuid": "9637a1b2-0601-11e8-ae97-52543be04c81",
+   "name": "90s90s Hits",
+   "url_resolved": "http://streams.90s90s.de/pop/mp3-192/streams.90s90s.de/",
+   "countrycode": "DE",
+   "language": "german",
+   "tags": "90s,hits,pop",
+   "codec": "MP3",
+   "bitrate": 0,
+   "votes": 27478
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "shelf": "全球热门",
+ "generated": "2026-09-23",
+ "count": 10,
+ "stations": [
+  {
+   "stationuuid": "aa408a3b-3d07-415d-8af1-a60b64e07043",
+   "name": "Radio Navahang",
+   "url_resolved": "https://navairan.com/;stream.nsv",
+   "countrycode": "IR",
+   "language": "persian",
+   "tags": "middle eastern music,pop",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 47929
+  },
+  {
+   "stationuuid": "96154673-0601-11e8-ae97-52543be04c81",
+   "name": "1.FM - Cafe Radio",
+   "url_resolved": "http://strm112.1.fm/caferadio_mobile_mp3",
+   "countrycode": "CH",
+   "language": "english",
+   "tags": "latin,pop,world music",
+   "codec": "MP3",
+   "bitrate": 256,
+   "votes": 8469
+  },
+  {
+   "stationuuid": "7afae7e3-8d06-42f5-b59e-a52d6e09e60e",
+   "name": "# RdMix Classic Rock 70s 80s 90s",
+   "url_resolved": "https://cast1.torontocast.com:4610/stream",
+   "countrycode": "CA",
+   "language": "english",
+   "tags": "60s,60s and 70s.,70's,70er,70s,80's,80er,80s,90's,90er,90s,blues,blues rock,classic blues,classic hits,classic hits 60s 70a 80s,classic rock,classic rock  50's 60's 70's 80's 90's,classic rock music,classic rock oldies,classic rock oldies soul,classic rock; alternative rock indie,country,entretenimiento,fm,hard rock,high quality audio,hits,local radio,melodic hard rock,music,music 70s 80s 90s,musica,oldies,pop rock,public radio,radio,real classic rock,rhythm and blues,rock,soft rock",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 4619
+  },
+  {
+   "stationuuid": "9627b2be-0601-11e8-ae97-52543be04c81",
+   "name": "¡Que Viva México!",
+   "url_resolved": "https://panel.retrolandigital.com:8160/listen",
+   "countrycode": "MX",
+   "language": "spanish",
+   "tags": "mexican music",
+   "codec": "AAC",
+   "bitrate": 96,
+   "votes": 4453
+  },
+  {
+   "stationuuid": "dd98c499-a0c4-4019-a35e-99caa6940407",
+   "name": "# TOP 100 CLUB CHARTS - DANCE & DJ MIX RADIO - 24 HOURS NON-STOP MUSIC @ TikTok Hits, Ibiza House, Sunset Lounge, Melodic Music, EDM, Deep House, Dance Music, Techno & Hypertechno, Rave Charts, Top 40 Charts, Latin, Reggaeton Music, Moombahton, Urban Hits, HipHop, Party & Clubbing Radio, Trending Chartmusic, R&B, Urban, Mixtape - & LIVE DJ SET",
+   "url_resolved": "https://breakz-2012-high.rautemusik.fm/?ref=radiobrowser-top100-clubcharts",
+   "countrycode": "DE",
+   "language": "english,german",
+   "tags": "#,#charts,#club,#djmix,#mashup,#radio,#top100,00s,90s,beachclub,charts,chill house,chillout,chillout+lounge,club,club dance,club dance electronic house trance,club house,clubbing,dance house club  electronic techhouse,deejay,deep house,deep music,dj,dj mixes,dj remix,dj sets,edm,electro,electro techno,electronic,funky house,future house,hardstyle/handsup/edm,hip hop,hip-hop,hiphop,house,hypertechno,ibiza,latin,latin music,latin pop,lounge music,mashup,melodic house,minimal,minimal techno,moombahton,pop,progressive house,r&b,r&b/urban,rap hiphop rnb,rave,reggaeton,remixed,remixes,singlecharts,soulful house,sundowner,sunset,tech house,techno,top 40,top100,vocal deep",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 4235
+  },
+  {
+   "stationuuid": "5bc44bcd-7481-40e1-b503-bb92b936f4cf",
+   "name": "# TOP 100 DJ CHARTS - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS",
+   "url_resolved": "https://breakz-high.rautemusik.fm/?ref=radiobrowser-top100-djcharts",
+   "countrycode": "DE",
+   "language": "american english,deutsch fränkisch,english,english uk,german,swiss german",
+   "tags": "#90s,#charts,2000s,2010s,bass house,beachclub,charts,chillout,club,club dance electronic house trance,clubbing,dance music,dance top40,dancehall,deejay,deep house,deep techno,dj,dj mixes,dj remix,dj sets,edm,edm radioshows,electro house,electro techno,electronic dance music,funky house,hotel,house,house techno,house/soulful/deep house,houseparty,hypertechno,latin music,live dj,live music,liveset,lounge,mainstream,mainstream music,mainstream urban,mashup,minimal techno,música urbana,partymix,pop,progressive house,radio,radioshow,reggaeton,remix,remixed,rnb,singlecharts,soulful,soulful house,sundowner,techno,technology,top 40 hits,top charts,top hits,top100,urban",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 3539
+  },
+  {
+   "stationuuid": "d5ef3de2-cdc3-478b-8582-e42bc1773864",
+   "name": "1.FM - Ibiza Chill Tropical",
+   "url_resolved": "http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true",
+   "countrycode": "CH",
+   "language": "english,german",
+   "tags": "1.fm,chillout,ibiza,tropical,tropical music",
+   "codec": "MP3",
+   "bitrate": 256,
+   "votes": 2966
+  },
+  {
+   "stationuuid": "d0df2a51-9cd3-4f3e-977d-aab92ddef7a3",
+   "name": "# 100 GREATEST HEAVY METAL",
+   "url_resolved": "https://cast1.torontocast.com:4660/stream",
+   "countrycode": "CA",
+   "language": "english",
+   "tags": "60's,60s,70's,70er,70s,80's,80er,80s,90's,90er,90s,black metal,classic hits,classic metal,classic rock,entretenimiento,fm,hard rock,heavy metal,local radio,metal,music,musica,oldies,public radio,radio,rock",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 2726
+  },
+  {
+   "stationuuid": "cf14b5ee-f03e-4468-8ce1-379f171fd8c4",
+   "name": "# 70s 80s 90s RdMix Network",
+   "url_resolved": "https://cast1.torontocast.com:1830/stream",
+   "countrycode": "CA",
+   "language": "english",
+   "tags": "00's,00s,192kbps,1970s,1980s,1990s,70's,70s,80's,80s,90's,90s,charts,classic hits,classic rock,dance,entretenimiento,fm,high quality audio,hits,local news,local radio,misc,music,musica,news,oldies,ontario,pop,pop music,pop rock,public radio,radio,rock,talk,top 100,top hits,top40,toronto,webradio",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 1635
+  },
+  {
+   "stationuuid": "b591d01a-e72b-4030-a640-a8da10ed73f6",
+   "name": "# REMIX & PARTYBREAKS - Your House - EDM - HipHop - RnB - Techno - TechHouse - Top 40 Charts - Latin - DJ Mixtape RADIO",
+   "url_resolved": "https://stream.breakz.fm/?ref=radiobrowser-remix-partybreaks-radio",
+   "countrycode": "DE",
+   "language": "english,german",
+   "tags": "#,#00s,#90,#dj,#partybreaks,#top100,charts,dance,dance house club  electronic techhouse,deep house,dj,dj mix,dj mixes,dj remix,electro house,electro techno,house,latin,latin music,latin pop,liveradio,mixtape,moombahton,partymix,pop,pop dance,r&b/urban,rap hiphop rnb,remix,remixed,remixes,techhouse,techno,top 40,top charts,top100,top40,urban",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 1610
+  }
+ ]
+}

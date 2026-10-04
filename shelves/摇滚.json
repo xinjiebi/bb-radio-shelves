@@ -1,0 +1,117 @@
+{
+ "shelf": "摇滚",
+ "generated": "2026-09-23",
+ "count": 10,
+ "stations": [
+  {
+   "stationuuid": "961c96ef-0601-11e8-ae97-52543be04c81",
+   "name": "ROCK FM",
+   "url_resolved": "http://nashe1.hostingradio.ru/rock-128.mp3",
+   "countrycode": "RU",
+   "language": "russian",
+   "tags": "classic rock,pop rock,rock",
+   "codec": "MP3",
+   "bitrate": 0,
+   "votes": 58759
+  },
+  {
+   "stationuuid": "9619f126-0601-11e8-ae97-52543be04c81",
+   "name": "Virgin Radio Classic Rock",
+   "url_resolved": "http://icy.unitedradio.it/VirginRockClassics.mp3",
+   "countrycode": "IT",
+   "language": "italian",
+   "tags": "classic rock,mediaset",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 37590
+  },
+  {
+   "stationuuid": "960cca40-0601-11e8-ae97-52543be04c81",
+   "name": "Rock Antenne - Heavy Metal",
+   "url_resolved": "http://mp3channels.webradio.rockantenne.de/heavy-metal",
+   "countrycode": "DE",
+   "language": "german",
+   "tags": "heavy metal,metal",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 33739
+  },
+  {
+   "stationuuid": "94256dfa-f568-4954-87c7-7f446cf35c0e",
+   "name": "Radio ROKS Ballads",
+   "url_resolved": "http://online.radioroks.ua/RadioROKS_Ballads_HD",
+   "countrycode": "UA",
+   "language": "ukrainian",
+   "tags": "classic rock,rock",
+   "codec": "MP3",
+   "bitrate": 320,
+   "votes": 32814
+  },
+  {
+   "stationuuid": "9606f727-0601-11e8-ae97-52543be04c81",
+   "name": "1LIVE",
+   "url_resolved": "http://wdr-1live-live.icecast.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+   "countrycode": "DE",
+   "language": "german",
+   "tags": "ard,public radio,rock,top 40,wdr",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 32295
+  },
+  {
+   "stationuuid": "9617d67b-0601-11e8-ae97-52543be04c81",
+   "name": "Antyradio",
+   "url_resolved": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+   "countrycode": "PL",
+   "language": "polish",
+   "tags": "metal,rock",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 27290
+  },
+  {
+   "stationuuid": "960e0117-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM PopTron (128k MP3)",
+   "url_resolved": "https://ice2.somafm.com/poptron-128-mp3",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "electropop,indie,synthpop",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 22526
+  },
+  {
+   "stationuuid": "9619e7d7-0601-11e8-ae97-52543be04c81",
+   "name": "TMM 1",
+   "url_resolved": "https://listen-msmn.sharp-stream.com/nme1.mp3",
+   "countrycode": "GB",
+   "language": "english",
+   "tags": "alternative,alternative rock,garage,indie,indie pop,indie rock,left-field dance",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 21499
+  },
+  {
+   "stationuuid": "96394224-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Indie Pop Rocks! (128k AAC)",
+   "url_resolved": "https://ice6.somafm.com/indiepop-128-aac",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "indie,indie pop,indie rock",
+   "codec": "AAC",
+   "bitrate": 128,
+   "votes": 21146
+  },
+  {
+   "stationuuid": "961291f5-0601-11e8-ae97-52543be04c81",
+   "name": "La Grosse Radio Métal",
+   "url_resolved": "http://hd.lagrosseradio.info/lagrosseradio-metal-192.mp3",
+   "countrycode": "FR",
+   "language": "french",
+   "tags": "metal,music",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 14127
+  }
+ ]
+}

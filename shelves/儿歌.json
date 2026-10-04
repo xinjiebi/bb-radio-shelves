@@ -1,0 +1,117 @@
+{
+ "shelf": "儿歌",
+ "generated": "2026-09-23",
+ "count": 10,
+ "stations": [
+  {
+   "stationuuid": "9620cfc5-0601-11e8-ae97-52543be04c81",
+   "name": "Radino - Mein Kinderradio Wien 103,2",
+   "url_resolved": "http://stream01.zogl.net:8906/stream",
+   "countrycode": "AT",
+   "language": "german",
+   "tags": "children,dab+,kids",
+   "codec": "MP3",
+   "bitrate": 192,
+   "votes": 1541
+  },
+  {
+   "stationuuid": "96181ed9-0601-11e8-ae97-52543be04c81",
+   "name": "3ABN Radio",
+   "url_resolved": "http://war.str3am.com:7180/live",
+   "countrycode": "US",
+   "language": "english",
+   "tags": "children,christian",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 1034
+  },
+  {
+   "stationuuid": "962628ef-0601-11e8-ae97-52543be04c81",
+   "name": "Rai Radio Kids",
+   "url_resolved": "http://icestreaming.rai.it/11.mp3",
+   "countrycode": "IT",
+   "language": "italian",
+   "tags": "children,kids,public radio,rai",
+   "codec": "MP3",
+   "bitrate": 256,
+   "votes": 1011
+  },
+  {
+   "stationuuid": "9612e37f-0601-11e8-ae97-52543be04c81",
+   "name": "Radio Teddy - Livestream",
+   "url_resolved": "http://streamtdy.ir-media-tec.com/live/mp3-128/web/play.mp3",
+   "countrycode": "DE",
+   "language": "german",
+   "tags": "children,kids",
+   "codec": "MP3",
+   "bitrate": 0,
+   "votes": 946
+  },
+  {
+   "stationuuid": "96144ca7-0601-11e8-ae97-52543be04c81",
+   "name": "Radio Teddy - Kinder Disco",
+   "url_resolved": "http://streamtdy.ir-media-tec.com/disco/mp3-128/web/play.mp3",
+   "countrycode": "DE",
+   "language": "german",
+   "tags": "children,kids,kinderlieder",
+   "codec": "MP3",
+   "bitrate": 0,
+   "votes": 669
+  },
+  {
+   "stationuuid": "77f92314-822b-4231-825a-f8ed256f3333",
+   "name": "TOGGO Radio",
+   "url_resolved": "http://radio.toggo.de/live/mp3-192",
+   "countrycode": "DE",
+   "language": "german",
+   "tags": "children",
+   "codec": "MP3",
+   "bitrate": 0,
+   "votes": 602
+  },
+  {
+   "stationuuid": "9612e4b6-0601-11e8-ae97-52543be04c81",
+   "name": "Radio Teddy - Kinderlieder",
+   "url_resolved": "http://streamtdy.ir-media-tec.com/kinderlieder/mp3-128/web/play.mp3",
+   "countrycode": "DE",
+   "language": "german",
+   "tags": "children,kids,kinderlieder",
+   "codec": "MP3",
+   "bitrate": 0,
+   "votes": 595
+  },
+  {
+   "stationuuid": "96122b41-0601-11e8-ae97-52543be04c81",
+   "name": "SRo9 Rádio Junior",
+   "url_resolved": "http://live.slovakradio.sk:8000/Junior_128.mp3",
+   "countrycode": "SK",
+   "language": "slovak",
+   "tags": "children,public radio,rtvs",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 563
+  },
+  {
+   "stationuuid": "9611d8eb-0601-11e8-ae97-52543be04c81",
+   "name": "Antenne Bayern - Hits für Kids",
+   "url_resolved": "http://s3-webradio.antenne.de/hits-fuer-kids",
+   "countrycode": "DE",
+   "language": "german",
+   "tags": "children,kids",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 532
+  },
+  {
+   "stationuuid": "43a188fd-2459-11e8-91bf-52543be04c81",
+   "name": "Allzic Radio Disney",
+   "url_resolved": "http://allzic52.ice.infomaniak.ch/allzic52.mp3",
+   "countrycode": "FR",
+   "language": "french",
+   "tags": "children,film music,movies,score,soundtracks",
+   "codec": "MP3",
+   "bitrate": 128,
+   "votes": 414
+  }
+ ]
+}
