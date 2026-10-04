@@ -1,0 +1,36 @@
+name: Manual Curate
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: '输入 yes 确认重新生成精选池'
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  curate:
+    if: ${{ github.event.inputs.confirm == 'yes' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate shelves
+        run: python curate_shelves.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "bb-radio-bot"
+          git config user.email "xinjiebi@gmail.com"
+          git add shelves/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: manual curate $(date -u +%Y-%m-%d)"
+            git push
+          fi

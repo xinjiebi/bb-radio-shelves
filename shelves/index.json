@@ -1,0 +1,5 @@
+{
+  "shelves": [],
+  "generated": "pending",
+  "note": "运行 python curate_shelves.py 生成精选池数据后自动填充"
+}
